@@ -119,6 +119,6 @@ The GGWoC Admin team ensures smooth execution of the entire program.
 
 ---
 
-For any queries or collaboration, feel free to reach out at **opensource.society.gg@gmail.com** or join our [Discord Server](#).
+For any queries or collaboration, feel free to reach out at **opensource.society.gg@gmail.com**.
 
 Let’s build open source, together. 🌍
