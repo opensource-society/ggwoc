@@ -20,27 +20,42 @@ Gyan Ganga Winter of Code (GGWoC) is a 2-month open-source mentorship initiative
 
 ---
 
-## 👤 Roles in GGWoC
+## 👥 Roles in GGWoC
 
 ### 🧑‍💻 Contributors
-- Submit proposals for available projects.
-- Select either the Paid or Unpaid track.
-- Work under the guidance of assigned mentors.
-- Participate in evaluations and final submission.
+Contributors are the heart of GGWoC. They apply to open-source projects by submitting detailed proposals and actively work on selected projects throughout the program.
 
-### 🧑‍🏫 Mentors
-- Review contributor proposals.
-- Provide weekly guidance and project support.
-- Evaluate progress during mid and final phases.
+- Browse listed open-source projects.
+- Submit proposals outlining goals and timeline.
+- Choose between **Paid** or **Unpaid** tracks.
+- Collaborate with mentors on deliverables.
+- Participate in mid-term and final evaluations.
+- Publish a final blog/report documenting their work.
 
-### 💼 Project Owners
-- Submit real-world project ideas.
-- Optionally sponsor contributors through stipends.
-- Define the project scope, tech stack, and deliverables.
+---
+
+### 🧑‍🏫 Mentors & 💼 Project Owners
+Mentors and Project Owners play a key role in ensuring the success of contributors and the growth of their open-source projects.
+
+**Project Owners:**
+- Submit real-world open-source project ideas.
+- Define project scope, tech stack, and deliverables.
+- Optionally sponsor contributors by funding stipends.
+
+**Mentors:**
+- Guide contributors with weekly check-ins and feedback.
+- Review and help refine proposals during the selection phase.
+- Evaluate contributor progress at mid-term and final stages.
+
+---
 
 ### 🛠 Program Admins
-- Oversee overall program execution.
-- Manage logistics, timelines, evaluation, and stipend disbursals.
+The GGWoC Admin team ensures smooth execution of the entire program.
+
+- Coordinate timelines, announcements, and deadlines.
+- Facilitate communication between contributors, mentors, and project owners.
+- Manage form submissions, evaluations, and stipend disbursal.
+- Oversee transparency, quality, and community engagement.
 
 ---
 
