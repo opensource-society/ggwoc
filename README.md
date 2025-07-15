@@ -109,25 +109,6 @@ The GGWoC Admin team ensures smooth execution of the entire program.
 
 ---
 
-## 🛠 Required Infrastructure
-
-- GGWoC Website or Notion Portal
-- GitHub Organization for project hosting
-- Discord Server for real-time communication
-- Google Forms & Sheets for tracking data
-- UPI/Bank Details Form for stipend transfers
-
----
-
-## 📣 Promotion Strategy
-
-- Official announcements on LinkedIn, Instagram, and Twitter
-- Info sessions for students, developers, and institutions
-- College-level tech community outreach
-- Countdown blog posts and project spotlights
-
----
-
 ## 🏆 Final Deliverables
 
 - Completed GitHub Repository with documentation
