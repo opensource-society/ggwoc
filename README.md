@@ -1,7 +1,7 @@
 # 🚀 Gyan Ganga Winter of Code (GGWoC)
 
 **Organized by:** *Open Source Society*  
-**Program Duration:** *October 1 – November 31, 2025*
+**Program Duration:** *October 1 – November 30, 2025*
 
 ---
 
@@ -70,7 +70,7 @@ The GGWoC Admin team ensures smooth execution of the entire program.
 | ✅ Final Selections       | September 28       | List of selected contributors published            |
 | 🚀 Coding Phase Begins   | October 1          | Official coding and collaboration begins           |
 | 📊 Mid Evaluations       | Oct 22 – Oct 27    | Progress check and 50% stipend disbursal (if paid) |
-| 🧪 Final Evaluations     | Nov 25 – Nov 31    | Final submission, project review, and stipend      |
+| 🧪 Final Evaluations     | Nov 25 – Nov 30    | Final submission, project review, and stipend      |
 | 🏁 Result & Showcase     | December 5         | Certificates, blog showcase, and celebration       |
 
 ---
